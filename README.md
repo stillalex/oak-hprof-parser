@@ -31,7 +31,7 @@ How to run
 $ java -jar oak-hprof-*.jar heap.bin
 ```
 
-Sample output (```segments-heap.gdf):
+Sample output (`segments-heap.gdf`):
 ```
 nodedef>name VARCHAR, type VARCHAR, gc INT, t INT
 1ddcd2eb-2f40-4131-ab25-4bc76a87c0fc,data,1,59217755
