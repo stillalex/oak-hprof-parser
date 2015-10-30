@@ -46,9 +46,9 @@ edgedef>node1 VARCHAR, node2 VARCHAR
 Credits
 -------
 
-  https://java.net/downloads/heap-snapshot/hprof-binary-format.html
-  http://hg.openjdk.java.net/jdk7/jdk7/jdk/file/e7d93d1d2bf0/src/share/classes/com/sun/tools/hat/internal/parser/HprofReader.java
-  https://github.com/eaftan/hprof-parser
+* [https://java.net/downloads/heap-snapshot/hprof-binary-format.html](https://java.net/downloads/heap-snapshot/hprof-binary-format.html)
+* [http://hg.openjdk.java.net/jdk7/jdk7/jdk/file/e7d93d1d2bf0/src/share/classes/com/sun/tools/hat/internal/parser/HprofReader.java](http://hg.openjdk.java.net/jdk7/jdk7/jdk/file/e7d93d1d2bf0/src/share/classes/com/sun/tools/hat/internal/parser/HprofReader.java)
+* [https://github.com/eaftan/hprof-parser](https://github.com/eaftan/hprof-parser)
 
 License
 -------
